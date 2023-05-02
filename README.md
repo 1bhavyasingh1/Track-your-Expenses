@@ -1,4 +1,4 @@
-# Check it out on Vercel
+# Link
 
 https://budget-app-snowy.vercel.app/
 
