@@ -1,6 +1,6 @@
-# Link
+# Usage
 
-https://budget-app-snowy.vercel.app/
+Please set it up locally
 
 # Getting Started with Create React App
 
